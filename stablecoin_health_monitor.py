@@ -490,7 +490,7 @@ with st.sidebar:
     - Stability trend monitoring
     
     **📦 Supply Dynamics**  
-    - On-chain mint/burn activity. Check [Dune dashboard](https://dune.com/defi__josh/stablecoin-health-monitor) for historical mint/burn and supply trends of each of these stablecoins.
+    - On-chain mint/burn activity. Check [Dune dashboard](https://dune.com/reachpaul/stablecoin-health-monitor) for historical mint/burn and supply trends of each of these stablecoins.
     - Market cap fluctuations
     - Concentration analysis
     
